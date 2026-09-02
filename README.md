@@ -24,7 +24,7 @@ I build retrieval-augmented and generative AI systems for document intelligence 
 
 ## Featured Projects
 
-### Email Agent
+### [Email Agent](https://github.com/vinonachi/Email-Agent)
 AI-powered email intelligence system that reads a Gmail inbox, classifies and scores messages, and surfaces what actually needs attention.
 
 **Stack**
