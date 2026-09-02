@@ -6,11 +6,11 @@ I build retrieval-augmented and generative AI systems for document intelligence 
 
 ## Technical Stack
 
-`LANGUAGES` ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+`LANGUAGES` ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-`AI / GENERATIVE AI` ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![CycleGAN](https://img.shields.io/badge/CycleGAN-FF6F00?style=flat-square)
+`AI / GENERATIVE AI` ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![CycleGAN](https://img.shields.io/badge/CycleGAN-FF6F00?style=flat-square) ![CLIP-ViT](https://img.shields.io/badge/CLIP--ViT-6A5ACD?style=flat-square) ![OCR](https://img.shields.io/badge/OCR-556B2F?style=flat-square)
 
-`MACHINE LEARNING` ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2C8EBB?style=flat-square) ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square)
+`MACHINE LEARNING` ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2C8EBB?style=flat-square) ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square)
 
 `BACKEND` ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gmail API](https://img.shields.io/badge/Gmail%20API-D14836?style=flat-square&logo=gmail&logoColor=white)
 
