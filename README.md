@@ -43,7 +43,7 @@ AI-powered email intelligence system that reads a Gmail inbox, classifies and sc
 
 ---
 
-### Neuro RAG — MRI Intelligence
+### [Neuro RAG — MRI Intelligence](https://github.com/vinonachi/NeuroRAG_MRI)
 Retrieval-augmented generation system for neuroimaging workflows, combining semantic search with clinical MRI context to answer queries directly over scan reports.
 
 **Stack:** Python, RAG, vector embeddings, LLMs
@@ -54,7 +54,7 @@ Retrieval-augmented generation system for neuroimaging workflows, combining sema
 
 ---
 
-### RAG-Based Resume Analyzer
+### [RAG-Based Resume Analyzer](https://github.com/vinonachi/Resume-Analyzer)
 AI-powered resume analysis platform that matches candidate profiles to job descriptions using vector similarity.
 
 **Stack:** Python, NLP, RAG, vector embeddings
@@ -64,7 +64,7 @@ AI-powered resume analysis platform that matches candidate profiles to job descr
 
 ---
 
-### MRI-to-CT Image Synthesis using CycleGAN
+### [MRI-to-CT Image Synthesis using CycleGAN](https://github.com/vinonachi/MRI-to-synthetic-CT-using-GAN)
 Tumor-focused medical image translation research, converting unpaired MRI scans into synthetic CT images.
 
 **Stack:** Python, CycleGAN, GANs, deep learning
@@ -75,7 +75,7 @@ Tumor-focused medical image translation research, converting unpaired MRI scans 
 
 ---
 
-### Logistics Services Website
+### [Logistics Services Website](https://github.com/vinonachi/logistic_services)
 Responsive logistics platform with structured service listings and a production-ready frontend.
 
 **Stack:** HTML5, CSS3, JavaScript
